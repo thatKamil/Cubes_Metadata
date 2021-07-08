@@ -4,7 +4,7 @@ from tkinter import filedialog
 
 # Main windows setup
 mainWindow = Tk()  # Links main window to the interpreter
-mainWindow.title("Dicom_Metadata by Kamil_Sokolowski")
+mainWindow.title("Cubes_Metadata by Kamil_Sokolowski")
 mainWindow.geometry("396x310+300+200")  # Window size and initial position
 mainWindow['bg'] = 'gray98'  # Background colour
 
@@ -60,9 +60,9 @@ def openAndProcessDicom():
 
 def aboutInformation():
     textArea.delete("1.0", "end")
-    textArea.insert(END, "Dicom_Metadata\n\nVersion 1.0\n\n25th May 2021\n\nDicom_Metadata generates a text file with all the metadata "
+    textArea.insert(END, "Cubes_Metadata\n\nVersion 1.0\n\n7th July 2021\n\nCubes_Metadata generates a text file with all the metadata "
                          "contained with a dicom file.\n\nCopyright (c) 2021 Kamil Sokolowski \n\n"
-                         "Source code & license (MIT) available at:\nhttps://github.com/thatKamil/Cubes_ReadEasy")
+                         "Source code & license (MIT) available at:\nhttps://github.com/thatKamil/Cubes_Metadata")
 
 def useInformation():
     textArea.delete("1.0", "end")
