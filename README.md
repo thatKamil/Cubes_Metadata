@@ -1,5 +1,5 @@
-# Dicom_Full_Metadata
-Dicom_Full_Metadata output a dicom's full metadata as a text file.
+# Dicom_Metadata
+Dicom_Metadata output a dicom's full metadata as a text file. Made for use with Molecubes x-cube and b-cube systems. 
 
 <img src="https://user-images.githubusercontent.com/70458221/124848355-04bb8a80-dfe0-11eb-88e8-1f269b8f176c.gif" width="600"/>
 
