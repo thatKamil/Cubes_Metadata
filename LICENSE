@@ -21,8 +21,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 
-
-Dicom_Full_Metadata uses the package pydicom.
+Cubes_Metadata uses the package pydicom.
 
 Copyright (c) 2008-2020 Darcy Mason and pydicom contributors
 
